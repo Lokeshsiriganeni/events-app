@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.img-style {
+  width: 180px;
+}
+.btn-style {
+  background-color: white;
+  border-width: 0px;
+}
+.heading-style {
+  font-size: 20px;
+}
+.eachEventContainer {
+  margin: 4px;
+}

@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.event-list-container {
+  list-style-type: none;
+  max-width: 60vw;
+  display: flex;
+  flex-wrap: wrap;
+}
